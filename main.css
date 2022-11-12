@@ -1,0 +1,21 @@
+.contaner{
+    width: 1240px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.heading{
+        color: darkorchid;  
+}
+.title-subject{
+    border-bottom: 10px dotted purple;
+}
+.subject-title{
+    
+}
+.subject{
+    color: antiquewhite;
+}
+.list-style{
+    background-color: antiquewhite;
+}
